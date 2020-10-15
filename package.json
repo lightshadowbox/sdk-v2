@@ -1,11 +1,11 @@
 {
-  "name": "incognito-js",
+  "name": "@lsb/incognito-sdk",
   "version": "1.0.0",
   "description": "Incognito Javascript library",
-  "main": "build/node",
+  "main": "build/web/module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/incognitochain/sdk-v2"
+    "url": "https://github.com/lightshadowbox/sdk-v2"
   },
   "scripts": {
     "prestart": "yarn",
