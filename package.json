@@ -1,8 +1,9 @@
 {
-  "name": "@lsb/incognito-sdk",
+  "name": "incognito-sdk",
   "version": "1.0.0",
   "description": "Incognito Javascript library",
   "main": "build/web/module",
+  "publisher": "0x11000011@gmail.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/lightshadowbox/sdk-v2"
